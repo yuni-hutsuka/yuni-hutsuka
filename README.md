@@ -1,6 +1,5 @@
-# Self Introduce
-NAME: yuni-wille
+# 自己紹介
+## 名前
+ゆに（yuni）
 
-COUNTRY: Japan
-
-Description: 人生つらいぜ
+## 趣味
