@@ -19,13 +19,14 @@
 
 あんまり真面目じゃない。
 
-## 各種SNSなど
+## 内部リンク
+
+- [作品視聴遍歴はこちら](./detail/history.md)
+- [現在抱えてるタスク](./detail/task.md)
+
+## 外部リンク - 各種SNSなど
 
 - [🐦 twitter](https://twitter.com/yuni_wille)
 - [🅿️ pixiv](https://www.pixiv.net/users/20509498)
 - [🖋️ カクヨム](https://kakuyomu.jp/users/yuni_hutsuka)
 - [🍈 メロンブックス](https://www.melonbooks.co.jp/circle/index.php?circle_id=107118)
-
-## 過去の遍歴
-
-- [作品視聴遍歴はこちら](./detail/history.md)
