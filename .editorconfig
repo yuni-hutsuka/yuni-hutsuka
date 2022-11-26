@@ -1,0 +1,15 @@
+# .editorconfig
+# =============
+
+# base config
+# -----------
+
+root = true
+
+[*]
+charset = utf-8                 # 文字コードはutf-8
+end_of_line = lf                # 改行コードはlinux系
+trim_trailing_whitespace = true # 行末の余分な空白は削除
+insert_final_newline = true     # ファイル末に空行を挿入
+indent_style = space            # 半角空白でインデント
+indent_size = 2                 # インデント幅は2
