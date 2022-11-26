@@ -22,6 +22,7 @@
 ## 内部リンク
 
 - [作品視聴遍歴はこちら](./detail/history.md)
+- [よくやっているゲームなど](./detail/games.md)
 - [現在抱えてるタスク](./detail/task.md)
 
 ## 外部リンク - 各種SNSなど
