@@ -27,9 +27,8 @@
 
 ## 外部リンク - 各種SNSなど
 
-- [🐦 twitter](https://twitter.com/yuni_wille)
-- [🦣 mastdon.jp](https://mstdn.jp/web/@yuni_hutsuka_999)
-- [🐘 pawoo.net](https://pawoo.net/web/accounts/910182)
+- [🐦 twitter](https://twitter.com/yuni_hutsuka)
+- [🦣 mastodon.jp](https://mstdn.jp/web/@yuni_hutsuka_999)
 - [🅿️ pixiv](https://www.pixiv.net/users/20509498)
 - [🖋️ カクヨム](https://kakuyomu.jp/users/yuni_hutsuka)
 - [🍈 メロンブックス](https://www.melonbooks.co.jp/circle/index.php?circle_id=107118)
