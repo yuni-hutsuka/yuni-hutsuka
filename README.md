@@ -10,6 +10,12 @@
     <br>
     <br>
     <b>
+      や、どうも。
+    <br>
+      二日ゆにって言います。以後お見知りおきを。
+    </b>
+    <br>
+    <b>
       Hello there.
     <br>
       I'm Yuni Hutsuka. Nice to meet you.
