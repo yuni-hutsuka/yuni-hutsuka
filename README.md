@@ -21,9 +21,6 @@
 
 <br>
 
-<details>
-<summary><samp><b>More Info</b></samp></summary>
-
 <h2></h2><br>
 
 <!-- Contact Me -->
@@ -33,6 +30,21 @@
     [<a href="https://www.pixiv.net/users/20509498">pixiv</a>]
     [<a href="https://kakuyomu.jp/users/yuni_hutsuka">kakuyomu</a>]
     [<a href="mailto:yuni.wille999@gmail.com">e-mail</a>]
+  </samp>
+</p>
+
+<!-- About me -->
+<p align="center">
+  <samp>
+    [<a href="./detail/profile.md">About me</a>]
+  </samp>
+</p>
+
+<!-- My favorite... -->
+<p align="center">
+  <samp>
+    [<a href="./detail/history.md">Favorite anime, manga, novels</a>]
+    [<a href="./detail/games.md">Favorite games</a>]
   </samp>
 </p>
 
@@ -55,33 +67,3 @@
     </tr>
   </table>
 </div>
-
-</details>
-</div>
----
-
-# 自己紹介
-
-## プロフィール
-
-| 項目         | 詳細                                                 |
-|--------------|------------------------------------------------------|
-| 名前（PN）   | 二日ゆに                                             |
-| 性別         | 男                                                   |
-| 趣味         | 剣道・キャッチボール・小説執筆・ハーモニカ           |
-| 好きな作品   | 数えきれないのでいつか遍歴を晒すサイトを作る         |
-| 原点かつ原典 | 宇宙戦艦ヤマト・銀河鉄道999・新世紀エヴァンゲリオン  |
-
-## やっていること
-
-主に小説執筆。
-
-おまけ程度の個人開発。
-
-あんまり真面目じゃない。
-
-## 内部リンク
-
-- [作品視聴遍歴はこちら](./detail/history.md)
-- [よくやっているゲームなど](./detail/games.md)
-- [現在抱えてるタスク](./detail/task.md)
