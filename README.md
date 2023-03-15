@@ -2,22 +2,22 @@
 <div align="justify">
 
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
-
+<p align="center"><strong><samp>❀❀❀❀❀⟰❀❀❀❀❀</samp></strong></p>
+	
 <p align="center">
   <samp>
-      <img src="./mark.svg">
+      <img src="./view/mark.svg">
     <br>
     <br>
     <b>
-      Hello There
+      Hello there.
     <br>
-      I'm Yuni Hutsuka.
+      I'm Yuni Hutsuka. Nice to meet you.
     </b>
   </samp>
 </p>
 
-<p align="right"><strong><samp>」</samp></strong></p>
+<p align="center"><strong><samp>❀❀❀❀❀⟱❀❀❀❀❀</samp></strong></p>
 
 <br>
 
