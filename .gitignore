@@ -1,0 +1,9 @@
+# .gitignore
+
+# default
+# : dotfiles and dotdirectory is ignored.
+#   (except .gitignore, .editorconfig and .latexmkrc).
+
+.*
+!.gitignore
+!.editorconfig
