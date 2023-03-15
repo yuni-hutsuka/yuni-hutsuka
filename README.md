@@ -1,11 +1,17 @@
-<link rel="preconnect" href="https://fonts.goolgleeopis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.goolgleeopis.com/css2?family=Kiwi+Maru:wght@300;400;500;&display=swap" rel="stylesheet">
+<!DOCTYPE html>
+<html lang="jp">
 
-<style>
-  font-family: 'Kiwi Maru', serif;
-</style>
+<head>
+  <link rel="preconnect" href="https://fonts.goolgleeopis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.goolgleeopis.com/css2?family=Kiwi+Maru:wght@300;400;500;&display=swap" rel="stylesheet">
 
+  <style>
+    font-family: 'Kiwi Maru', serif;
+  </style>
+</head>
+
+<body>
 <!-- Rxyhn's Aesthetic GitHub Profile -->
 <div align="justify">
 
@@ -13,16 +19,12 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
+        <image src="./mark.svg">
+      <br>
       <b>
         Hello There
       <br>
-        I'm Rxyhn, a Student, I like Penguins and Apples, but I don't like Windows.
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
-      <br>
-      <b>
-        ~ Rayhan Kafi Pratama ~
+        I'm Yuni Hutsuka.
       </b>
     </samp>
   </p>
@@ -38,9 +40,10 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://instagram.com/rxyyyhn">instagram</a>]
-    [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+    [<a href="https://twitter.com/yuni_hutsuka">twitter</a>]
+    [<a href="https://www.pixiv.net/users/20509498">pixiv</a>]
+    [<a href="https://kakuyomu.jp/users/yuni_hutsuka">kakuyomu</a>]
+    [<a href="mailto:yuni.wille999@gmail.com">e-mail</a>]
   </samp>
 </p>
 
@@ -50,7 +53,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" />
   </a>
   </samp>
 </p>
@@ -106,8 +109,4 @@
 
 ## 外部リンク - 各種SNSなど
 
-- [🐦 twitter](https://twitter.com/yuni_hutsuka)
-- [🦣 mastodon.jp](https://mstdn.jp/web/@yuni_hutsuka_999)
-- [🅿️ pixiv](https://www.pixiv.net/users/20509498)
-- [🖋️ カクヨム](https://kakuyomu.jp/users/yuni_hutsuka)
-- [🍈 メロンブックス](https://www.melonbooks.co.jp/circle/index.php?circle_id=107118)
+</body>
