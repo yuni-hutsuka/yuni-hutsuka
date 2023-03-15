@@ -1,33 +1,22 @@
-<!DOCTYPE html>
-<html lang="jp">
-
-<head>
-  <link rel="preconnect" href="https://fonts.goolgleeopis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.goolgleeopis.com/css2?family=Kiwi+Maru:wght@300;400;500;&display=swap" rel="stylesheet">
-
-  <style>
-    font-family: 'Kiwi Maru', serif;
-  </style>
-</head>
-
-<body>
 <!-- Rxyhn's Aesthetic GitHub Profile -->
 <div align="justify">
 
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
-    <samp>
-        <image src="./mark.svg">
-      <br>
-      <b>
-        Hello There
-      <br>
-        I'm Yuni Hutsuka.
-      </b>
-    </samp>
-  </p>
+
+<p align="center">
+  <samp>
+      <img src="./mark.svg">
+    <br>
+    <br>
+    <b>
+      Hello There
+    <br>
+      I'm Yuni Hutsuka.
+    </b>
+  </samp>
+</p>
+
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
@@ -106,7 +95,3 @@
 - [作品視聴遍歴はこちら](./detail/history.md)
 - [よくやっているゲームなど](./detail/games.md)
 - [現在抱えてるタスク](./detail/task.md)
-
-## 外部リンク - 各種SNSなど
-
-</body>
